@@ -1,3 +1,4 @@
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)]([https://rishavchanda.io](https://madhurn29.github.io/))
 <h1 align="center">Hi 👋, I'm Madhur Nadamwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
