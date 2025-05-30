@@ -13,7 +13,7 @@
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **madhur.nadamwar29@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/11AwYT97eH7iNnqUxyKt9rIBGCzYu4RuK/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
