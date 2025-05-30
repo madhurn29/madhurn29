@@ -7,7 +7,7 @@
 
 💫 About Me:
 <br/>
-🔭Currently a student at Masai School<br>🧑‍🤝‍🧑Seeking collaboration in software development<br>💛Looking to develop a tech website with assistance<br>🌱Proficient in HTML, CSS, Javascript and React framework <br>💭Specialize in Front End development
+🔭Currently a Software Development Engineer at Kapiva<br>🧑‍🤝‍🧑Seeking collaboration in software development<br>💛Looking to develop a tech website with assistance<br>🌱Proficient in HTML, CSS, Javascript and React framework <br>💭Specialize in Front End development
 
 
 - 💬 Ask me about **React, Javascript**
